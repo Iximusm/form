@@ -1,0 +1,15 @@
+h2{
+    color:blue;
+    background-color: rgb(255, 0, 140);
+    text-align: center;
+}
+
+a{
+    text-align: right;
+    color: rgb(17, 0, 255);
+    text-decoration: none;
+    padding: 2em;
+    position: fixed;
+    top: 2em;
+    right: 1em;
+}
